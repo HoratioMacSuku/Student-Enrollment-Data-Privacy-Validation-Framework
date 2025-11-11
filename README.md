@@ -111,8 +111,8 @@ student_data_privacy_framework/
 ---
 
 ## 9. Sample Dataset
-*(Sample dataset omitted for brevity.)*
 
+https://github.com/HoratioMacSuku/Student-Enrollment-Data-Privacy-Validation-Framework/blob/main/Student%20Enrollment%20Data.xlsx
 ---
 
 ## 10. Issues Found
